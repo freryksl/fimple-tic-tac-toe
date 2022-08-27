@@ -1,0 +1,35 @@
+html, 
+body, #root {
+  height: 100%;
+}
+
+.App {
+  height: 100%;
+  text-align: center;
+}
+
+.container {
+  height: 100%;
+}
+
+.inner-container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+
+.box-container {
+  display: grid;
+  background-color: #7c7c7c;
+  gap: 0.3vw;
+}
+
+.box-container div {
+  font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+  background-color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
