@@ -8,4 +8,4 @@
 
 ## Play Demo
 
-https://fimple.herokuapp.com/
+https://tic-tac-toe-594cf.web.app/
